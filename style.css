@@ -2,6 +2,12 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
-.index-heading {
+.text {
     text-align: center;
 }
+
+#content {
+    margin: auto;
+    width: 10%;
+}
+
